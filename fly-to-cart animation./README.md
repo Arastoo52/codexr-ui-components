@@ -1,16 +1,48 @@
-# React + Vite
+# 🛒 Fly To Cart Animation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern e-commerce animation built with React, Framer Motion, and Tailwind CSS.
 
-Currently, two official plugins are available:
+This component creates a smooth "Fly To Cart" effect where a product visually moves into the shopping cart when the user clicks the Add to Cart button, providing an engaging shopping experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+* Smooth fly-to-cart animation
+* Interactive Add to Cart experience
+* Responsive design
+* Modern e-commerce UI
+* Clean and reusable code
+* Easy customization
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* React.js
+* Framer Motion
+* Tailwind CSS
+* JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## 📸 Preview
+
+A product smoothly animates into the cart after clicking the Add to Cart button, creating a realistic shopping interaction.
+
+## 📂 Use Cases
+
+* E-commerce Websites
+* Shopping Carts
+* Product Pages
+* Online Stores
+* Modern Web Applications
+
+## 👨‍💻 Author
+
+Built by codeXr
+
+Follow for more React UI components and animations.
+
+⭐ If you found this project useful, consider giving it a star.
