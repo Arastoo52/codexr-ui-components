@@ -1,12 +1,48 @@
-# React + Vite
+# 🔐 Animated OTP Verification
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive OTP Verification component built with React, Framer Motion, and Tailwind CSS.
 
-Currently, two official plugins are available:
+Designed to provide a smooth authentication experience with clean animations, intuitive interactions, and a production-ready UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+* Smooth OTP input animations
+* Auto-focus input navigation
+* Responsive design
+* Modern authentication UI
+* Clean and reusable code
+* Easy customization
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+* React.js
+* Framer Motion
+* Tailwind CSS
+* JavaScript
+
+## 🚀 Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## 📸 Preview
+
+Animated OTP Verification UI with modern interactions and smooth user experience.
+
+## 📂 Use Cases
+
+* Authentication Systems
+* Login Flows
+* Signup Verification
+* Two-Factor Authentication (2FA)
+* Mobile & Web Applications
+
+## 👨‍💻 Author
+
+Built by codeXr
+
+Follow for more modern React UI components and animations.
+
+⭐ If you found this project useful, consider giving it a star.
